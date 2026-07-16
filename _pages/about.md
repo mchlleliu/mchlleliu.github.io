@@ -5,11 +5,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  overlay_image: ../images/dmel_mutants.jpeg
+  overlay_filter: 0.5
 ---
 
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
   <img src="../images/dmel_mutants.jpeg" style="width: 100%; max-width: none ;">
-</p>
+</p> -->
 
 ## Hello :)
 
