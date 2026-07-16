@@ -7,7 +7,6 @@ redirect_from:
 header:
   overlay_image: ../images/dmel_mutants.jpeg
   overlay_filter: 0.5
-  show_overlay_excerpt: false
 ---
 
 <!-- <p align="center" width="100%">
