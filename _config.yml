@@ -13,8 +13,8 @@ title                    : "Michelle J. Liu"
 title_separator          : "-"
 name                     : &name "Michelle J. Liu"
 description              : &description ""   
-url                      : https://michellejliu.github.io 
-baseurl                  : "" 
+url                      : "https://mchlleliu.github.io"
+baseurl                  : "/michellejliu.github.io"
 repository               : "mchlleliu/michellejliu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
