@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Michelle J. Liu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p align="center" width="100%">
+  <img src="../images/dmel_mutants.jpeg" style="width: 100%; max-width: none ;">
+</p>
 
 ## Hello :)
 
@@ -18,7 +22,3 @@ I grew up in the sweltering, bustling city of Jakarta before moving to Peterboro
 I am always happy to chat! Shoot me an [email](mailto:mchelle.liu@mail.utoronto.ca) or check out my CV [here](). <br>
 
 <br>
-
-<p align="center" width="100%">
-  <img src="../images/dmel_mutants.jpeg" style="width: 100%; max-width: none ;">
-</p>
