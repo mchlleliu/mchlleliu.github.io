@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : ""
+title                    : "Michelle J. Liu"
 title_separator          : "-"
 name                     : &name "Michelle J. Liu"
 description              : &description ""   
